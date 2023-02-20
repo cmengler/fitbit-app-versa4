@@ -1,0 +1,6 @@
+{
+  "name": "@fitbit/sdk-build-targets",
+  "version": "1.0.0",
+  "description": "Unofficial package to serve as a drop-in to add build targets to SDK for unsupported FitBit devices.",
+  "main": "index.js"
+}
