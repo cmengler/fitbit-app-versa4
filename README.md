@@ -1,6 +1,6 @@
-# FitBit Versa 4 App
+# Fitbit Versa 4 App
 
-This is an unoffical approach for building and sideloading a 3rd-party application to a FitBit Versa 4 device. This should also work for Sense 2.
+This is an unoffical approach for building and sideloading a 3rd-party application to a Fitbit Versa 4 device. This should also work for Sense 2.
 
 🚧 All content within this repository is provided for educational purposes only. Use at your own risk. 🚧
 
@@ -29,7 +29,7 @@ yarn build
 
 ### Prepare the bridge
 
-Open FitBit app, access the **Developer Menu**, toggle on **Developer Bridge** and wait for the "Waiting for Studio" status.
+Open Fitbit app, access the **Developer Menu**, toggle on **Developer Bridge** and wait for the "Waiting for Studio" status.
 
 On the Versa 4, connect the device to charger, goto **Settings** and navigate to **Developer bridge**, toggle **USB debugging** on.
 
@@ -47,7 +47,7 @@ export FITBIT_DEVBRIDGE_DUMP=1
 
 ### Connect the devices
 
-NOTE: When you first start the `debug` command, you may be requested to login to your FitBit developer account.
+NOTE: When you first start the `debug` command, you may be requested to login to your Fitbit developer account.
 
 ```sh
 yarn debug
