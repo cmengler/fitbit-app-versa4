@@ -10,6 +10,12 @@ This approach consists of:
 - Makes assumptions for the build target for Versa 4 (best guess)
 - Sets the `enableProposedAPI` for installs.
 
+## Screenshots
+
+| App List                                | App                           |
+|-----------------------------------------|-------------------------------|
+| ![app list](./screenshots/app_list.png) | ![app](./screenshots/app.png) |
+
 ## Quick Start
 
 To summarise in four steps:
