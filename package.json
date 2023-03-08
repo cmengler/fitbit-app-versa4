@@ -23,6 +23,6 @@
   "devDependencies": {
     "@fitbit/sdk": "~7.1.0-pre.0",
     "@fitbit/sdk-cli": "~1.8.0-pre.10",
-    "@fitbit/sdk-build-targets": "../packages/sdk-build-targets"
+    "@fitbit/sdk-build-targets": "cmengler/fitbit-sdk-build-targets"
   }
 }
