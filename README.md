@@ -7,7 +7,7 @@ This is an unoffical approach for building and sideloading a 3rd-party applicati
 This approach consists of:
 
 - Enables the `hosts` command via the `FITBIT_QA_COMMANDS` environment flag.
-- Makes assumptions for the build target for Versa 4 (best guess)
+- Uses unofficial drop-in package for [@fitbit/sdk-build-targets](https://github.com/cmengler/fitbit-sdk-build-targets)
 - Sets the `enableProposedAPI` for installs.
 
 ## Screenshots
