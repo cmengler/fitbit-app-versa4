@@ -10,7 +10,8 @@
     "wipeColor": "#8bc34a",
     "requestedPermissions": [],
     "buildTargets": [
-      "hera"
+      "hera",
+      "rhea"
     ],
     "i18n": {},
     "defaultLanguage": "en-US",
