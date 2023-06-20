@@ -1,6 +1,6 @@
 # Fitbit Versa 4 App
 
-This is an unoffical approach for building and sideloading a 3rd-party application to a Fitbit Versa 4 device. This should also work for Sense 2.
+This is an unofficial approach for building and sideloading a 3rd-party application to Fitbit Versa 4 and Sense 2 devices.
 
 🚧 All content within this repository is provided for educational purposes only. Use at your own risk. 🚧
 
@@ -37,7 +37,7 @@ yarn build
 
 Open Fitbit app, access the **Developer Menu**, toggle on **Developer Bridge** and wait for the "Waiting for Studio" status.
 
-On the Versa 4, connect the device to charger, goto **Settings** and navigate to **Developer bridge**, toggle **USB debugging** on.
+On the Versa 4/Sense 2, connect the device to charger, goto **Settings** and navigate to **Developer bridge**, toggle **USB debugging** on.
 
 Enable the `FITBIT_QA_COMMANDS` environment flag, this allows the device USB host to be discoverable.
 
